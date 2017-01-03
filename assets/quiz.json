@@ -1,0 +1,166 @@
+{
+  "title": "Which Bleach Character Are You?",
+  "questions": [
+    {
+      "picture": "https://images.alphacoders.com/238/238761.png",
+      "question": "Do you believe in the supernatural (ghosts, superpowers)?",
+      "answers": [
+        {
+          "is_right": true,
+          "value": "Yes",
+          "default": "checked"
+        },
+        {
+          "is_right": false,
+          "value": "No",
+          "default": false
+        }
+      ]
+    },
+    {
+      "picture": "https://images3.alphacoders.com/474/47465.jpg",
+      "question": "Someone slaps your lover's ass, how do you fight them?",
+      "answers": [
+        {
+          "is_right": false,
+          "value": "Impassioned--I tend fight without thinking.",
+          "default": "checked"
+        },
+        {
+          "is_right": true,
+          "value": "Calm and efficient--I try fight only if I need to.",
+          "default": false
+        },
+        {
+          "is_right": true,
+          "value": "Firey and hot-tempered--I get angry when I fight. ",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Cold and calculated--I get the job done.",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Passive, I really hate fighting!",
+          "default": false
+        }
+      ]
+    },
+    {
+      "picture": "https://images3.alphacoders.com/930/93059.jpg",
+      "question": "Pour a glass of sake, and raise your glass to toast which of these things?",
+      "answers": [
+        {
+          "is_right": false,
+          "value": "Love",
+          "default": "checked"
+        },
+        {
+          "is_right": true,
+          "value": "Health",
+          "default": false
+        },
+        {
+          "is_right": true,
+          "value": "Companionship",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Power",
+          "default": false
+        }
+      ]
+    },
+    {
+      "picture": "https://images4.alphacoders.com/219/219388.jpg",
+      "question": "How would you describe yourself?",
+      "answers": [
+        {
+          "is_right": false,
+          "value": "Natural born leader, people follow you and take your orders.",
+          "default": "checked"
+        },
+        {
+          "is_right": true,
+          "value": "Weird, but likable. Very friendly person.",
+          "default": false
+        },
+        {
+          "is_right": true,
+          "value": "Serious with a lot of pride.",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Shy but willing to do things if necessary.",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Quick with thoughts, fast thinker and mad genius.",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Hot headed, short temper and physically strong.",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Reserved and mysterious. Aloof amongst the crowd.",
+          "default": false
+        }
+      ]
+    },
+        {
+      "picture": "https://images6.alphacoders.com/412/412237.jpg",
+      "question": "Who is your favorite character?",
+      "answers": [
+        {
+          "is_right": false,
+          "value": "Ichigo",
+          "default": "checked"
+        },
+        {
+          "is_right": true,
+          "value": "Rukia",
+          "default": false
+        },
+        {
+          "is_right": true,
+          "value": "Hitsugaya",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Kon",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Kenpachi",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Orihime",
+          "default": false
+        },
+        {
+          "is_right": false,
+          "value": "Ishida",
+          "default": false
+        },
+                {
+          "is_right": false,
+          "value": "Chad",
+          "default": false
+        }
+      ]
+    }
+
+  ]
+}
